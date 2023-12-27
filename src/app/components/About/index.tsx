@@ -5,3 +5,5 @@ const About = () => {
     <p>sei que la sei que la sei que la sei que la sei que la sei que la sei que la sei que la sei que la sei que la sei que la sei que la sei que la </p>
     </>
 }
+
+export default About
